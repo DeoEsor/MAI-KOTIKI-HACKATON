@@ -1,0 +1,3 @@
+﻿namespace MAIKotiki.MAFConstructor.Application.Commands.CreateConfiguration.Contracts;
+
+public record CreateSystemChannelConfigurationCommandResponse(SystemChannelConfiguration Configuration);

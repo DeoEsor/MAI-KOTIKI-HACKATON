@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <ItemGroup>
+        <PackageReference Include="Dapper" />
+        <PackageReference Include="GlasnoTech.Dotnet.Common" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+        <PackageReference Include="Riok.Mapperly" />
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\MAIKotiki.MAFConstructor.Domain\MAIKotiki.MAFConstructor.Domain.csproj" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\MAIKotiki.MAFConstructor.Domain\MAIKotiki.MAFConstructor.Domain.csproj" />
+    <ProjectReference Include="..\MAIKotiki.MAFConstructor.Infrastructure\MAIKotiki.MAFConstructor.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Queries\" />
+  </ItemGroup>
+</Project>

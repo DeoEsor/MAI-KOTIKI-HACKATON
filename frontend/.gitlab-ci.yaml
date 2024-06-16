@@ -1,0 +1,2 @@
+include:
+  - local: '/mai-kotiki/infra/ci/next.gitlab-ci.yaml'
